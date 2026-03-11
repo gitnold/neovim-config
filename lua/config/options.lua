@@ -9,4 +9,5 @@ vim.g.autoformat = false
 opt.ruler = true
 opt.shiftwidth = 4
 opt.tabstop = 4
+opt.list = false
 
